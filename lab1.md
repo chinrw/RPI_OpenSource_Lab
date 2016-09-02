@@ -12,7 +12,6 @@ never think about infringement.We need to familiar with the rules in free softwa
 such as GNU or Apache. When we deal with our programming or modified others' work
 we must be careful enough to avoid the legal problems. And we need to be care about
 which part of our service could be provide to other people.
-
-![/images/Screenshot from 2016-09-02 13-34-58.png]
+![tree](/images/Screenshot from 2016-09-02 13-34-58.png）
 
 
