@@ -15,3 +15,14 @@ which part of our service could be provide to other people.
 ![tree](images/Screenshot.png)
 
 
+while (notDone()) {
+  if (isPathLeft()) {
+    turnLeft();
+  }
+  if (isPathForward()) {
+    moveForward();
+  } else {
+    turnLeft();
+    turnLeft();
+  }
+}
