@@ -14,6 +14,8 @@ we must be careful enough to avoid the legal problems. And we need to be care ab
 which part of our service could be provide to other people.
 ![tree](images/Screenshot.png)
 
+![practice](images/practice_regexone.png)
+![practice](images/practice.png)
 
 while (notDone()) {
   if (isPathLeft()) {
