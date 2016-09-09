@@ -31,3 +31,7 @@ while (notDone()) {
 
 that's the solution of the Blockly problme.
 
+I would like to working on a web application or an android application which can monitor the status of my server and do some actions such as restart server or clean cache.
+First of all, find software which can collect information of server and then analyze these data in order to help make graph. After that, push these data to client, in the client the application will use the data to make graph.
+
+
