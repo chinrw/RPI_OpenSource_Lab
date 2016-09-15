@@ -8,3 +8,9 @@
 5. Why linux choose GPL v2? First of all, the author, linus, agree with that this software is a kind of free software and also he does not like the term about anti-tivoization in GPL v3, so he doesn't change to GPL v3. And also many contributions to linux are licensed in v2 so it will be illegal to release the linux on v3 with these contributions.
 
 7. I think apache is good for company because compare with GPL, people who use software which include apache doesn’t need release their source code after they modifying source code. And this action which people need to release their source code after modify is required by GPL. So GPL is good for developers because it protects developers profit. The following modify has to be release. LGPL is good for common good because company can easily use software by LGPL and don’t need to release their source code and LGPL is not good for second develop on software which use LGPL because the modify code still need to use LGPL so this is good for developer and company.
+
+
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/makinj/MeNext | Yes | MIT
+
