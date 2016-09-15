@@ -13,4 +13,8 @@
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/makinj/MeNext | Yes | MIT
+https://github.com/Rlin06/gatekeeper|Yes|MIT
+https://github.com/kelleyb/swolemon-android|Yes|MIT
+https://github.com/luciencd/suggestr|Yes|Apache
+https://github.com/wyattkroemer/yIotTester|Yes|MIT
 
