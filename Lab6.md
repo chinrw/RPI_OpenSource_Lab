@@ -5,3 +5,10 @@ Yacs|7|11154|Sep 13, 2015|Oct 2, 2016|master / staging / docker/ improveCourseUp
 whenisbest|3|107|Oct 2, 2016|Oct 9, 2016|master
 UFDS|1|23|Sep 11, 2016|Sep 11, 2016|master
 WeirdSideofYouTube|6|19031|Sep 27, 2015|Oct 9, 2016|master / newstyle/ WindowsApp / old
+
+the Line of Codes is different from the #1 and resutls of gitstats. (maybe we contain the comment from codes)
+
+
+
+
+https://www.youtube.com/watch?v=d_Jb5gWKoj8&feature=youtu.be
